@@ -1,0 +1,10 @@
+{
+  "name": "nexus4cc",
+  "version": "0.1.0",
+  "description": "Your Claude Code, Everywhere.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
